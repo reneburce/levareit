@@ -1,0 +1,12 @@
+build:
+  version: "Cards 2.0"
+
+loans:
+  message: "Welcome to Levareit Loans related QA APIs  - filesystemconfig"
+  contactDetails:
+    name: "Rene Burce - QA Lead"
+    email: "rburce@levareit.com"
+  onCallSupport:
+    - (loan) 555-1234
+    - (loan) 523-1345
+

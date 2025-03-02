@@ -1,0 +1,12 @@
+build:
+  version: "cards-3.0"
+
+cards:
+  message: "Welcome to Levareit Cards related local APIs  - filesystemconfig"
+  contactDetails:
+    name: "Rene Burce - Cards Developer"
+    email: "rburce@levareit.com"
+  onCallSupport:
+    - (cards) 555-1234
+    - (cards) 523-1345
+

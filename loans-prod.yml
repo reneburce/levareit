@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Levareit Loans  related Production APIs - filesystemconfig - MQ"
+  contactDetails:
+    name: "Rene Burce - Production Support"
+    email: "rburce@levareit.com"
+  onCallSupport:
+    - (prod) 555-1234
+    - (prod) 523-1345
+

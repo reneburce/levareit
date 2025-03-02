@@ -1,0 +1,11 @@
+build:
+  version: "Loans 3.0"
+
+loans:
+  message: "Welcome to Levareit Loans related local APIs  - filesystemconfig"
+  contactDetails:
+    name: "Rene Burce - Tech Lead"
+    email: "rburce@levareit.com"
+  onCallSupport:
+    - (loan) 555-1234
+    - (loan) 523-1345
