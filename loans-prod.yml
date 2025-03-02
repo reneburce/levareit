@@ -2,7 +2,7 @@ build:
   version: "1.0-1"
 
 loans:
-  message: "Welcome to Levareit Loans  related Production APIs - https://github.com/reneburce/levareit - MQ"
+  message: "Welcome to Levareit Loans  related Production APIs - https://github.com/reneburce/levareit - MQ- 11111"
   contactDetails:
     name: "Rene Burce - Production Support"
     email: "johndoe@yahoo.com"
