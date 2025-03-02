@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Levareit accounts related Production APIs  LIVE - filesystemconfig - MQ"
+  message: "Levareit accounts related Production APIs  LIVE - https://github.com/reneburce/levareit/edit/master/accounts-prod.yml - MQ"
   contactDetails:
     name: "Rene Burce - Production Support"
     email: "{cipher}a80a58ad3911a750686fcfe5c9a740f668a29ee4910d13899c906b0b4fc5e3b27e609ae462b4f1577cb7fbebc1164146"
