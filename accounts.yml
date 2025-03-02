@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Levareit accounts related local APIs   - filesystemconfig"
+  message: "Welcome to Levareit accounts related local APIs   - https://github.com/reneburce/levareit"
   contactDetails:
     name: "Rene Burce - Developer"
     email: "rburce@levareit.com"
