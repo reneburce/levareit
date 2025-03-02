@@ -5,7 +5,7 @@ loans:
   message: "Welcome to Levareit Loans  related Production APIs - https://github.com/reneburce/levareit - MQ"
   contactDetails:
     name: "Rene Burce - Production Support"
-    email: "rburce@levareit.com"
+    email: "johndoe@yahoo.com"
   onCallSupport:
     - (prod) 555-1234
     - (prod) 523-1345
