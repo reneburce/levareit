@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Levareit accounts related local APIs   - https://github.com/reneburce/levareit 3-3-2025 hookdeck 340pm"
+  message: "Welcome to Levareit accounts related local APIs   - https://github.com/reneburce/levareit hookdeck 351pm"
   contactDetails:
     name: "Rene Burce - Developer"
     email: "rburce@levareit.com"
