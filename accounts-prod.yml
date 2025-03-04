@@ -2,7 +2,7 @@ build:
   version: "1.0-1"
 
 accounts:
-  message: "Levareit accounts related Production APIs  LIVE - https://github.com/reneburce/levareit/ - 3-3-2025"
+  message: "Levareit accounts related Production APIs  LIVE - https://github.com/reneburce/levareit/ -747- 3-3-2025"
   contactDetails:
     name: "John doe"
     email: "{cipher}a80a58ad3911a750686fcfe5c9a740f668a29ee4910d13899c906b0b4fc5e3b27e609ae462b4f1577cb7fbebc1164146"
