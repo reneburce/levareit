@@ -2,7 +2,7 @@ build:
   version: "Loans 3.0"
 
 loans:
-  message: "Welcome to Levareit Loans related local APIs  - https://github.com/reneburce/levareit"
+  message: "Welcome to Levareit Loans related local APIs  - https://github.com/reneburce/levareit 922am"
   contactDetails:
     name: "Rene Burce - Tech Lead"
     email: "rburce@levareit.com"
