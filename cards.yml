@@ -2,7 +2,7 @@ build:
   version: "cards-3.0"
 
 cards:
-  message: "Welcome to Levareit Cards related local APIs  - https://github.com/reneburce/levareit"
+  message: "Welcome to Levareit Cards related local APIs  - https://github.com/reneburce/levareit 922am"
   contactDetails:
     name: "Rene Burce - Cards Developer"
     email: "rburce@levareit.com"
