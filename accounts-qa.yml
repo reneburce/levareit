@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Levareit accounts related QA APIs  -  filesystemconfig"
+  message: "Welcome to Levareit accounts related QA APIs  -  https://github.com/reneburce/levareit"
   contactDetails:
     name: "Rene Burce - QA Lead"
     email: "rburce@levareit.com"

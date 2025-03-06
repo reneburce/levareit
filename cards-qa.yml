@@ -2,7 +2,7 @@ build:
   version: "Cards 2.0"
 
 cards:
-  message: "Welcome to Levareit Cards related QA APIs  - filesystemconfig"
+  message: "Welcome to Levareit Cards related QA APIs  - https://github.com/reneburce/levareit"
   contactDetails:
     name: "Rene Burce - QA Lead"
     email: "rburce@levareit.com"
